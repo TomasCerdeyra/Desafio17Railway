@@ -109,7 +109,7 @@ app.get('/infoGzip', compression(), (req, res) => {
     
 })
 
-const PORT = parseInt(process.argv[2]) || args.puerto
+const PORT = process.env.PORT || args.puerto
 app.listen(PORT, () => {
     logger.info('escuchando '+ PORT)
 })
