@@ -16,3 +16,20 @@
 {"level":30,"time":1676852317331,"pid":6496,"hostname":"DESKTOP-U6EK1M6","msg":"escuchando 8081"}
 {"level":30,"time":1676860779636,"pid":11072,"hostname":"DESKTOP-U6EK1M6","msg":"escuchando 8081"}
 {"level":30,"time":1676898974318,"pid":6120,"hostname":"DESKTOP-U6EK1M6","msg":"escuchando 8081"}
+{"level":30,"time":1677013961932,"pid":11308,"hostname":"DESKTOP-U6EK1M6","msg":"escuchando 8081"}
+{"level":30,"time":1677014979424,"pid":11288,"hostname":"DESKTOP-U6EK1M6","msg":"escuchando 8081"}
+{"level":30,"time":1677015329162,"pid":8384,"hostname":"DESKTOP-U6EK1M6","msg":"escuchando 8081"}
+{"level":30,"time":1677015414699,"pid":3192,"hostname":"DESKTOP-U6EK1M6","msg":"escuchando 8081"}
+{"level":30,"time":1677016143438,"pid":628,"hostname":"DESKTOP-U6EK1M6","msg":"escuchando 8081"}
+{"level":30,"time":1677016159015,"pid":628,"hostname":"DESKTOP-U6EK1M6","msg":"Un usuario se logeo: /login"}
+{"level":30,"time":1677016168173,"pid":628,"hostname":"DESKTOP-U6EK1M6","msg":"Un usuario se deslogeo /login"}
+{"level":30,"time":1677016171958,"pid":628,"hostname":"DESKTOP-U6EK1M6","msg":"Un usuario se deslogeo /login"}
+{"level":50,"time":1677016183659,"pid":628,"hostname":"DESKTOP-U6EK1M6","msg":"error al logear un usuario /login"}
+{"level":50,"time":1677016283373,"pid":628,"hostname":"DESKTOP-U6EK1M6","msg":"error al logear un usuario /login"}
+{"level":30,"time":1677016290829,"pid":3836,"hostname":"DESKTOP-U6EK1M6","msg":"escuchando 8081"}
+{"level":30,"time":1677016339496,"pid":3836,"hostname":"DESKTOP-U6EK1M6","msg":"Un usuario se logeo: /login"}
+{"level":30,"time":1677016343910,"pid":3836,"hostname":"DESKTOP-U6EK1M6","msg":"Un usuario se deslogeo /login"}
+{"level":30,"time":1677016458661,"pid":6860,"hostname":"DESKTOP-U6EK1M6","msg":"escuchando 8081"}
+{"level":30,"time":1677016464633,"pid":12444,"hostname":"DESKTOP-U6EK1M6","msg":"escuchando 8081"}
+{"level":30,"time":1677016492821,"pid":14856,"hostname":"DESKTOP-U6EK1M6","msg":"escuchando 8081"}
+{"level":30,"time":1677016525567,"pid":14856,"hostname":"DESKTOP-U6EK1M6","msg":"Un usuario nuevo se registro /regsiter"}

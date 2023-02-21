@@ -5,10 +5,10 @@ import logger from "../utils/logger.js";
 const listHomeAndProducts = async (req, res) => {
     try {
         const products = await ModelProduct.find({ user: req.user.id }).lean()
-        console.log(req.user.userName);
+        
         res.render('home', { products: products })
     } catch (error) {
-        console.log(error);
+        
         res.redirect('/')
     }
 }
@@ -39,7 +39,7 @@ const editProduct = async (req, res) => {
     const { id } = req.params
     const { name, price, description, image } = req.body
     try {
-        console.log(name);
+        
         const prod = await ModelProduct.findById(id)
         await prod.updateOne({ name, price, description, image })
 

@@ -4,6 +4,8 @@ import connectionMongo from './dataBase/MongoDB.js';
 import { args } from './config/minimit.js';
 import logger from './utils/logger.js';
 import ModelUser from './models/userModel.js';
+import dotenv from 'dotenv'
+dotenv.config()
 //Pasport-Sessions
 import session from 'express-session';
 import MongoStore from 'connect-mongo';

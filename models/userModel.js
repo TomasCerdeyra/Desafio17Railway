@@ -47,7 +47,6 @@ userSchema.pre('save', async function (next) {
         user.password = hash
         next();
     } catch (error) {
-        console.log(error);
         throw new Error("Error al codificar la contraseña")
     }
 })
